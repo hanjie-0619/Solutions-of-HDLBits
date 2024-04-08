@@ -20,3 +20,7 @@ HDLBits is an online learning platform for Verilog, offering a variety of proble
 In this repository, I have shared my solutions to the problem sets on HDLBits. Each problem set has a corresponding folder containing the related Verilog code and any test files.
 
 I hope these solutions can help those who are passionate about Verilog to learn and progress together!
+
+## License
+
+This project is licensed under the MIT License.
